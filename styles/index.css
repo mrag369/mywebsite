@@ -9,7 +9,17 @@ body {
   position: fixed;
   bottom: 370px;
   left: 150px;
-  right: 0;
+}
+
+.vht {
+  position: fixed;
+  bottom: 370px;
+  left: 600px;
+}
+
+.social_footer {
+  font-size: 48px;
+  color: black;
 }
 
 .vhlr {
