@@ -17,9 +17,18 @@ body {
   left: 600px;
 }
 
-.social_footer {
-  font-size: 48px;
-  color: black;
+.social_footer1 {
+  position: fixed;
+  bottom: 300px;
+  font-size: 45px;
+  left: 585px;
+}
+
+.social_footer2 {
+  position: fixed;
+  bottom: 240px;
+  font-size: 45px;
+  left: 585px;
 }
 
 .vhlr {
